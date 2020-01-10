@@ -95,7 +95,6 @@ guidata(hObject, handles);
 # Program Çıktıları
 
 <p align="center" >
-        <img width="450" height="400" src="README_FILES/1.png">
         <img width="450" height="400" src="README_FILES/2.png">
 </p>
 
