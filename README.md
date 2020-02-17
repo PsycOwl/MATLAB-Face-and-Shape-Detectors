@@ -6,7 +6,7 @@ MatLab GUIDE editorü ile resimde görülen arayüz hazırlandı ve FaceDetectio
 
 ### FaceDetection.fig
 
-![.](README_FILES/FaceDetection.fig.PNG)
+![.](README_FILES/FaceDetection.fig.png)
 
 <div style="page-break-after: always;"></div>
 
